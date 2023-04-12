@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ITSS-nihongo/static/css/main.15c54299.chunk.css",
+    "main.js": "/ITSS-nihongo/static/js/main.12940685.chunk.js",
+    "main.js.map": "/ITSS-nihongo/static/js/main.12940685.chunk.js.map",
+    "runtime-main.js": "/ITSS-nihongo/static/js/runtime-main.950d07fb.js",
+    "runtime-main.js.map": "/ITSS-nihongo/static/js/runtime-main.950d07fb.js.map",
+    "static/js/2.a0130c04.chunk.js": "/ITSS-nihongo/static/js/2.a0130c04.chunk.js",
+    "static/js/2.a0130c04.chunk.js.map": "/ITSS-nihongo/static/js/2.a0130c04.chunk.js.map",
+    "index.html": "/ITSS-nihongo/index.html",
+    "static/css/main.15c54299.chunk.css.map": "/ITSS-nihongo/static/css/main.15c54299.chunk.css.map",
+    "static/js/2.a0130c04.chunk.js.LICENSE.txt": "/ITSS-nihongo/static/js/2.a0130c04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.950d07fb.js",
+    "static/js/2.a0130c04.chunk.js",
+    "static/css/main.15c54299.chunk.css",
+    "static/js/main.12940685.chunk.js"
+  ]
+}
